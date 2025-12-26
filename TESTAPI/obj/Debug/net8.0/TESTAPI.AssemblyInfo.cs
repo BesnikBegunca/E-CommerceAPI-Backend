@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TESTAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23f21b060ef68d97f7922be9332dcd6ccdb6ada4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5061b08111584e7d40fadaf3a5aacc0afe4181a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TESTAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TESTAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

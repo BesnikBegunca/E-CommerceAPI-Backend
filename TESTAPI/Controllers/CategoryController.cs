@@ -30,4 +30,22 @@ public class CategoryController : ControllerBase
         dto.Id = category.Id;
         return CreatedAtAction(nameof(GetCategories), new { id = category.Id }, dto);
     }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteCategory(int id)
+    {
+        // Gjej kategoria me id
+        var category = await _context.Categories.FindAsync(id);
+
+        if (category == null)
+        {
+            return NotFound(new { message = "Category not found" });
+        }
+
+        _context.Categories.Remove(category);
+        await _context.SaveChangesAsync();
+
+        return NoContent(); // 204
+    }
+
 }

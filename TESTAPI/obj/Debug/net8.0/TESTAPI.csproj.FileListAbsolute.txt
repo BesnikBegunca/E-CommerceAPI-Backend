@@ -147,3 +147,4 @@ C:\Users\PC\source\repos\TESTAPI\TESTAPI\obj\Debug\net8.0\TESTAPI.pdb
 C:\Users\PC\source\repos\TESTAPI\TESTAPI\obj\Debug\net8.0\TESTAPI.genruntimeconfig.cache
 C:\Users\PC\source\repos\TESTAPI\TESTAPI\obj\Debug\net8.0\ref\TESTAPI.dll
 C:\Users\PC\source\repos\TESTAPI\TESTAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\source\repos\TESTAPI\TESTAPI\obj\Debug\net8.0\TESTAPI.sourcelink.json
