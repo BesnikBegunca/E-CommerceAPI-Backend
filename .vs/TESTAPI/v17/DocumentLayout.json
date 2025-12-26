@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\TESTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECAFF-8682-453B-AECD-99657BE2796E}|TESTAPI\\TESTAPI.csproj|c:\\users\\pc\\source\\repos\\testapi\\testapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5C8ECAFF-8682-453B-AECD-99657BE2796E}|TESTAPI\\TESTAPI.csproj|solutionrelative:testapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\TESTAPI\\TESTAPI\\.gitignore",
+              "RelativeDocumentMoniker": "TESTAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\TESTAPI\\TESTAPI\\.gitignore",
+              "RelativeToolTip": "TESTAPI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-26T00:24:30.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
